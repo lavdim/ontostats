@@ -1,0 +1,13 @@
+The Dublin Core (DC) ontology Terms	http://purl.org/dc/terms/
+Simple Knowledge Organization System Namespace(skos) 	http://www.w3.org/2004/02/skos/core#
+Schema.org	http://schema.org/
+Friend Of A Friend (FOAF) ontology	http://xmlns.com/foaf/0.1/
+GoodRelations	http://purl.org/goodrelations/v1
+GeoNames	http://www.geonames.org/ontology
+BIO: A vocabulary for biographical information	http://vocab.org/bio/0.1/.html
+Creative Commons	http://creativecommons.org/ns#
+Description of a Project (DOAP)	http://usefulinc.com/ns/doap#
+Organization Ontology	http://www.w3.org/ns/org#
+vcard(Verify Again)	http://www.w3.org/2001/vcard-rdf/3.0#
+Music Ontology	http://purl.org/ontology/mo/
+MarineTLO ontology	http://www.ics.forth.gr/isl/ontology/MarineTLO/
