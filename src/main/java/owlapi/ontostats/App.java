@@ -2,9 +2,11 @@ package owlapi.ontostats;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.LineNumberReader;
+import java.io.OutputStream;
 import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
@@ -156,6 +158,10 @@ public class App {
 		table.setAddRowNumbering(true);
 		// tt.setSort(0);
 		table.printTable();
+		
+		OutputStream output = new FileOutputStream("results.txt");
+		
+		table.toCsv(output);
 
 	}
 }

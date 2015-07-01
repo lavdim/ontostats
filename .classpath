@@ -24,5 +24,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="/home/lavdim/workspace/ontostats/j-text-utils-0.3.3.jar"/>
 	<classpathentry kind="lib" path="/home/lavdim/workspace/ontostats/owlapi-distribution-4.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/lavdim/Downloads/guidlines/opencsv-2.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
