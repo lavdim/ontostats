@@ -22,8 +22,11 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/lavdim/workspace/ontostats/j-text-utils-0.3.3.jar"/>
-	<classpathentry kind="lib" path="/home/lavdim/workspace/ontostats/owlapi-distribution-4.0.2.jar"/>
-	<classpathentry kind="lib" path="/home/lavdim/workspace/ontostats/opencsv-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Deutch/development/ontostats/lib/j-text-utils-0.3.3.jar"/>
+	<classpathentry kind="lib" path="D:/Deutch/development/ontostats/lib/opencsv-2.1-1.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hermit"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Jena"/>
+	<classpathentry kind="lib" path="/DBOntoClassificationu/Libraries/Hermit/HermiT.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OWLAPI"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

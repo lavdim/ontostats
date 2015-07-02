@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TestCaseGenerator-config>
+<OntoVocabs-config>
+
+	<Ontology>
+		<name>The Dublin Core (DC) ontology Terms</name>
+		<url>http://purl.org/dc/terms/</url>
+	</Ontology>
+    
+	<Ontology>
+		<name>Simple Knowledge Organization System Namespace(skos)</name>
+		<url>http://www.w3.org/2004/02/skos/core#</url>
+	</Ontology>
+    
+    <Ontology>	
+		<name>Friend Of A Friend (FOAF) ontology</name>
+		<url>http://xmlns.com/foaf/0.1/</url>
+	</Ontology>    
+	
+	<Ontology>	
+		<name>GoodRelations</name>
+		<url>http://purl.org/goodrelations/v1</url>
+	</Ontology>
+	
+	<Ontology>	
+		<name>GeoNames</name>
+		<url>http://www.geonames.org/ontology</url>
+	</Ontology>
+
+	<Ontology>	
+		<name>BIO: A vocabulary for biographical information</name>
+		<url>http://vocab.org/bio/0.1/.rdf</url>
+	</Ontology>
+	
+	<Ontology>	
+		<name>Creative Commons</name>
+		<url>https://creativecommons.org/schema.rdf</url>
+	</Ontology>
+	
+	<Ontology>	
+		<name>Description of a Project (DOAP)</name>
+		<url>http://usefulinc.com/ns/doap#</url>
+	</Ontology>
+	
+	<Ontology>	
+		<name>Organization Ontology</name>
+		<url>http://www.w3.org/ns/org#</url>
+	</Ontology>
+	
+	<Ontology>	
+		<name>vcard(Verify Again)</name>
+		<url>http://www.w3.org/2001/vcard-rdf/3.0#</url>
+	</Ontology>
+	
+	<Ontology>	
+		<name>Semantically Interlinked Online Communities</name>
+		<url>http://rdfs.org/sioc/ns#</url>
+	</Ontology>
+	
+	<Ontology>	
+		<name>MarineTLO ontology</name>
+		<url>http://www.ics.forth.gr/isl/ontology/MarineTLO/</url>
+	</Ontology>
+	
+	<Ontology>	
+		<name>Schema.org</name>
+		<url>http://topbraid.org/schema/schema.ttl</url>
+	</Ontology>
+	
+	<Ontology>	
+		<name>Good Relations(GR)</name>
+		<url>http://purl.org/goodrelations/v1.owl</url>
+	</Ontology>
+	
+	<Ontology>	
+		<name>Data Cube Vocabulary</name>
+		<url>https://raw.githubusercontent.com/UKGovLD/publishing-statistical-data/master/specs/src/main/vocab/cube.ttl</url>
+	</Ontology>	
+	
+	<Ontology>	
+		<name>Bibliographic Ontology (BIBO)</name>
+		<url>http://purl.org/ontology/bibo/</url>
+	</Ontology>	
+	
+	<Ontology>	
+		<name>Provenance Ontology (PROV)</name>
+		<url>http://www.w3.org/ns/prov.owl</url>
+	</Ontology>
+	
+	<Ontology>	
+		<name>VANN: A vocabulary for annotating vocabulary descriptions</name>
+		<url>http://vocab.org/vann/.turtle</url>
+	</Ontology>
+	
+	<Ontology>	
+		<name>Notion of reified events - events seen as first-class objects</name>
+		<url>http://purl.org/NET/c4dm/event.owl</url>
+	</Ontology>
+	
+	<Ontology>	
+		<name>Expressing metadata about RDF datasets</name>
+		<url>http://purl.org/NET/c4dm/event.owl</url>
+	</Ontology>	
+	
+	<Ontology>	
+		<name>LODE: An ontology for Linking Open Descriptions of Events</name>
+		<url>http://linkedevents.org/ontology/2010-10-07/rdfxml/</url>
+	</Ontology>
+	
+	
+
+</OntoVocabs-config>
