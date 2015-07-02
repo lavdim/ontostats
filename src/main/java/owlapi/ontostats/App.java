@@ -159,7 +159,7 @@ public class App {
 		// tt.setSort(0);
 		table.printTable();
 		
-		OutputStream output = new FileOutputStream("results.txt");
+		OutputStream output = new FileOutputStream("results.csv");
 		
 		table.toCsv(output);
 

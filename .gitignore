@@ -1,0 +1,20 @@
+# BACKUP FILES
+*.bak
+*~
+
+# TEMPORARY FILES
+
+*.tmp
+
+*.classpath
+*.project
+*.class
+*.jar
+.settings
+bin
+
+# metadata
+.DS_Store
+Thumbs.db
+/lib/
+/target/
